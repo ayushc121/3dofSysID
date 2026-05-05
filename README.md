@@ -1,6 +1,6 @@
 # 3-DoF Longitudinal Aircraft System Identification
 
-A MATLAB implementation of a classical system identification pipeline for estimating longitudinal aerodynamic parameters of a fixed-wing aircraft from flight data. This serves as a **baseline reference implementation** — the results it produces are intended to provide a basis of comparison for other system identification methods.
+A MATLAB implementation of a classical system identification pipeline for estimating longitudinal aerodynamic parameters of a fixed-wing aircraft from flight data. This serves as a **baseline reference implementation**. The results it produces are intended to provide a basis of comparison for other system identification methods.
 
 The workflow uses two sequential stages: an **Equation-Error** method for initial parameter estimates, followed by an **Output-Error** method for maximum-likelihood refinement.
 
