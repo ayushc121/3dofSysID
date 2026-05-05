@@ -13,6 +13,7 @@ The workflow uses two sequential stages: an **Equation-Error** method for initia
 | `AC_VER2_main.m` | Script to call the other files |
 | `AC_VER2_sysID.m` | Main sysID implementation — runs both equation-error and output-error methods |
 | `AC_VER2_statespace.m` | Supporting file defining the nonlinear 3-DoF fixed-wing state-space model |
+| `AC_VER2_statespace.m` | Supporting file for plotting states and inputs |
 | `model.py` / `classical_OEM_resultsforAIAA 1` | Files used to generate the flight data |
 
 ---
